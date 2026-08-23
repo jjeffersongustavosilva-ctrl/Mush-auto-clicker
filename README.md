@@ -6,9 +6,9 @@
 
 ## 📥 Download Oficial (Windows)
 
-Clique no botão abaixo para baixar o executável portátil:
+Clique no botão abaixo para baixar o instalador oficial:
 
-[![Download Mush Auto Clicker](https://img.shields.io/badge/Download-Mush%20Installer%20(v0.0.2)-7c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jjeffersongustavosilva-ctrl/Mush-auto-clicker/releases/latest/download/MushAutoClicker.exe)
+[![Download Mush Auto Clicker](https://img.shields.io/badge/Download-Mush%20Installer%20(v0.0.2)-7c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jjeffersongustavosilva-ctrl/Mush-auto-clicker/releases/latest/download/Mush.Installer.exe)
 
 > Ou acesse a aba **[Releases](https://github.com/jjeffersongustavosilva-ctrl/Mush-auto-clicker/releases/latest)** para baixar diretamente os executáveis.
 
@@ -26,7 +26,7 @@ Clique no botão abaixo para baixar o executável portátil:
 
 ## 🚀 Como Usar
 
-1. Baixe o **[MushAutoClicker.exe](https://github.com/jjeffersongustavosilva-ctrl/Mush-auto-clicker/releases/latest/download/MushAutoClicker.exe)**.
+1. Baixe o **[Mush Installer.exe](https://github.com/jjeffersongustavosilva-ctrl/Mush-auto-clicker/releases/latest/download/Mush.Installer.exe)**.
 2. Execute o instalador e escolha onde deseja salvar o Mush Auto Clicker.
-3. Abra o **MushAutoClicker.exe** e configure sua Hotkey (Padrão: `F8`).
+3. Abra o **Mush Installer.exe** e configure sua Hotkey (Padrão: `F8`).
 4. Pronto para jogar!
