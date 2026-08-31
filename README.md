@@ -8,7 +8,7 @@
 
 Clique no botão abaixo para baixar o instalador oficial:
 
-[![Download Mush Auto Clicker](https://img.shields.io/badge/Download-Mush%20Installer%20%280.0.7%29-7c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Elevennzin/Mush-auto-clicker/releases/latest/download/MushInstaller.exe)
+[![Download Mush Auto Clicker](https://img.shields.io/badge/Download-Mush%20Installer%20%280.0.8%29-7c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Elevennzin/Mush-auto-clicker/releases/latest/download/MushInstaller.exe)
 
 > Ou acesse a aba **[Releases](https://github.com/Elevennzin/Mush-auto-clicker/releases/latest)** para baixar diretamente os executáveis.
 
